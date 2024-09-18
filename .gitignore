@@ -4,3 +4,5 @@ Old/
 *.docx
 *.png
 "Practical instructions Essentials Course Unsupervised Learning.pdf"
+.DS_Store
+.Rhistory
